@@ -2,3 +2,7 @@
 
 adb wrapper inspired by adb-peco and adbs
 
+## todo
+
+TEST!!
+
